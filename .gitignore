@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+
+# Webpages accidentally saved while downloading the SQLite database.
+/cohort.db.html
+/clinic.db.html
