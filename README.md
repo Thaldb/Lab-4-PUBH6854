@@ -10,14 +10,9 @@ protein-altering mutations in five genes.
 
 ## Data
 
-The course-provided database is expected at:
-
 ```text
 data/raw/lab4-cbioportal-luad/cohort.db
 ```
-
-It contains 566 de-identified patients. The database was provided for this
-lab and should not be replaced with the Week 8 demonstration database.
 
 ## Repository structure
 
